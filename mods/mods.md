@@ -1,4 +1,8 @@
+animania-1.12.2-1.4.8
+AppleSkin-mc1.12-1.0.9
 AutoRegLib-1.3-18
+CraftStudio-1.0.0.93-mc1.12-alpha
+CraftTweaker2-1.12-4.1.9
 BetterWithMods-1.12-2.1.24
 jei_1.12.2-4.10.0.198
 Quark-r1.4-125
