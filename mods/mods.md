@@ -5,10 +5,12 @@ CraftStudio-1.0.0.93-mc1.12-alpha
 CraftTweaker2-1.12-4.1.9
 embers-0.230
 ImmersiveEngineering-0.12-82
+BetterQuesting-3.5.259
 BetterWithMods-1.12-2.1.24
 jei_1.12.2-4.10.0.198
 Mantle-1.12-1.3.2.24
 Quark-r1.4-125
+questbook-3.1.1-1.12
 roots-2.0.104
 rustic-1.0.5
 TConstruct-1.12.2-2.10.1.87
