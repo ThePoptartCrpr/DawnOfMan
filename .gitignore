@@ -4,11 +4,16 @@ saves/
 screenshots/
 resourcepacks/
 memory_repo/
+.mixin.out/
+astralsorcery/
+journeymap/
+snapshots-server/
 
 
 # Files
 *.jar
 crafttweaker.log
+BotaniaVars.dat
 realms_persistence.json
 usercache.json
 usernamecache.json
