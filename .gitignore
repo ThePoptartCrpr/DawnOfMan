@@ -1,0 +1,10 @@
+# Directories
+logs/
+saves/
+
+
+# Files
+*.jar
+realms_persistence.json
+usercache.json
+usernamecache.json
