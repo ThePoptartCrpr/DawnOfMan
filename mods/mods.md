@@ -52,6 +52,7 @@ MJRLegendsLib-1.12.2-1.1.4
 MouseTweaks-2.8-mc1.12.1
 mysticalagriculture-1.12-1.6.12
 natura-1.12.2-4.3.2.49
+noRecipeBook_v1.2.2formc1.12.2
 Nutrition-1.12.2-3.4.0
 OreExcavation-1.4.119
 Pam's+HarvestCraft+1.12.2u
