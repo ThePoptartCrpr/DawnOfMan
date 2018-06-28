@@ -6,6 +6,7 @@ resourcepacks/
 memory_repo/
 .mixin.out/
 astralsorcery/
+!config/astralsorcery/
 journeymap/
 snapshots-server/
 
