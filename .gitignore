@@ -15,8 +15,13 @@ snapshots-server/
 *.jar
 crafttweaker.log
 BotaniaVars.dat
+splash.properties
+config/buildcraft/detailed.properties
+config/MouseTweaks.cfg
+
+
+# Minecraft
 realms_persistence.json
 usercache.json
 usernamecache.json
 options.txt
-splash.properties
