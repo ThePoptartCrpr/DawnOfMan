@@ -1,71 +1,71 @@
 # Mod List
 
-ActuallyAdditions-1.12.2-r135
-agricraft-2.12.0-1.12.0-a4
-animania-1.12.2-1.4.8
-AppleCore-mc1.12.2-3.1.3
-AppleSkin-mc1.12-1.0.9
-appliedenergistics2-rv5-stable-11
-Aquaculture-1.12.2-1.6.5
-astralsorcery-1.12.2-1.9.1
-AutoRegLib-1.3-18
-Baubles-1.12-1.5.2
-BetterQuesting-3.5.259
-BetterWithMods-1.12-2.1.24
-BiblioCraft[v2.4.5][MC1.12.2]
-bonsaitrees-1.0.5-b77
-Botania+r1.10-354
-buildcraft-7.99.17
-Ceramics-1.12-1.3.4
-Clumps-3.1.1
-CookingForBlockheads_1.12.2-6.4.40
-CraftStudio-1.0.0.93-mc1.12-alpha
-CraftTweaker2-1.12-4.1.9
-cucumber-1.12-1.1.0
-embers-0.230
-EnderCore-1.12.2-0.5.31
-EnderIO-1.12.2-5.0.26
-ExtraPlanets-1.12.2-0.4.0
-FamiliarFauna-1.12.2-1.0.10
-FancyBlockParticles-1.12.x-2.4.0
-FastLeafDecay-v14
-foamfix-0.9.9.1-1.12.2-anarchy
-forestry_1.12.2-5.8.0.308
-GalacticraftCore-1.12.2-4.0.1.181
-Galacticraft-Planets-1.12.2-4.0.1.181
-HungerInPeace-mc1.12-1.0.0
-Hwyla-1.8.26-B41_1.12.2
-immcraft-1.12-1.5.0
-ImmersiveEngineering-0.12-82
-immersivepetroleum-1.12.2-1.1.9
-infinitylib-1.12.0
-jei_1.12.2-4.10.0.198
-journeymap-1.12.2-5.5.2
-JustEnoughPetroleum-0.1
-JustEnoughResources-1.12.2-0.8.5.27
-KleeSlabs_1.12.2-5.4.10
-Mantle-1.12-1.3.2.24
-mcjtylib-1.12-3.0.2
-Mekanism-1.12.2-9.4.13.349
-MicdoodleCore-1.12.2-4.0.1.181
-MJRLegendsLib-1.12.2-1.1.4
-MouseTweaks-2.8-mc1.12.1
-mysticalagriculture-1.12-1.6.12
-natura-1.12.2-4.3.2.49
-noRecipeBook_v1.2.2formc1.12.2
-Nutrition-1.12.2-3.4.0
-OreExcavation-1.4.119
-Pam's+HarvestCraft+1.12.2u
-pneumaticcraft-repressurized-1.12.2-0.6.8-219
-ProjectE-1.12-PE1.3.0
-Quark-r1.4-125
-questbook-3.1.1-1.12
-roots-2.0.104
-rustic-1.0.5
-StandardExpansion-3.4.143
-TConstruct-1.12.2-2.10.1.87
-Thaumcraft-1.12.2-6.1.BETA16
-Totemic-1.12.2-0.11.2
-VanillaFix-1.0.9-97
-Wawla-1.12.2-2.5.257
-WildCrops-1.12-1.0.1
+- ActuallyAdditions-1.12.2-r135
+- agricraft-2.12.0-1.12.0-a4
+- animania-1.12.2-1.4.8
+- AppleCore-mc1.12.2-3.1.3
+- AppleSkin-mc1.12-1.0.9
+- appliedenergistics2-rv5-stable-11
+- Aquaculture-1.12.2-1.6.5
+- astralsorcery-1.12.2-1.9.1
+- AutoRegLib-1.3-18
+- Baubles-1.12-1.5.2
+- BetterQuesting-3.5.259
+- BetterWithMods-1.12-2.1.24
+- BiblioCraft[v2.4.5][MC1.12.2]
+- bonsaitrees-1.0.5-b77
+- Botania+r1.10-354
+- buildcraft-7.99.17
+- Ceramics-1.12-1.3.4
+- Clumps-3.1.1
+- CookingForBlockheads_1.12.2-6.4.40
+- CraftStudio-1.0.0.93-mc1.12-alpha
+- CraftTweaker2-1.12-4.1.9
+- cucumber-1.12-1.1.0
+- embers-0.230
+- EnderCore-1.12.2-0.5.31
+- EnderIO-1.12.2-5.0.26
+- ExtraPlanets-1.12.2-0.4.0
+- FamiliarFauna-1.12.2-1.0.10
+- FancyBlockParticles-1.12.x-2.4.0
+- FastLeafDecay-v14
+- foamfix-0.9.9.1-1.12.2-anarchy
+- forestry_1.12.2-5.8.0.308
+- GalacticraftCore-1.12.2-4.0.1.181
+- Galacticraft-Planets-1.12.2-4.0.1.181
+- HungerInPeace-mc1.12-1.0.0
+- Hwyla-1.8.26-B41_1.12.2
+- immcraft-1.12-1.5.0
+- ImmersiveEngineering-0.12-82
+- immersivepetroleum-1.12.2-1.1.9
+- infinitylib-1.12.0
+- jei_1.12.2-4.10.0.198
+- journeymap-1.12.2-5.5.2
+- JustEnoughPetroleum-0.1
+- JustEnoughResources-1.12.2-0.8.5.27
+- KleeSlabs_1.12.2-5.4.10
+- Mantle-1.12-1.3.2.24
+- mcjtylib-1.12-3.0.2
+- Mekanism-1.12.2-9.4.13.349
+- MicdoodleCore-1.12.2-4.0.1.181
+- MJRLegendsLib-1.12.2-1.1.4
+- MouseTweaks-2.8-mc1.12.1
+- mysticalagriculture-1.12-1.6.12
+- natura-1.12.2-4.3.2.49
+- noRecipeBook_v1.2.2formc1.12.2
+- Nutrition-1.12.2-3.4.0
+- OreExcavation-1.4.119
+- Pam's+HarvestCraft+1.12.2u
+- pneumaticcraft-repressurized-1.12.2-0.6.8-219
+- ProjectE-1.12-PE1.3.0
+- Quark-r1.4-125
+- questbook-3.1.1-1.12
+- roots-2.0.104
+- rustic-1.0.5
+- StandardExpansion-3.4.143
+- TConstruct-1.12.2-2.10.1.87
+- Thaumcraft-1.12.2-6.1.BETA16
+- Totemic-1.12.2-0.11.2
+- VanillaFix-1.0.9-97
+- Wawla-1.12.2-2.5.257
+- WildCrops-1.12-1.0.1
