@@ -62,6 +62,7 @@ Quark-r1.4-125
 questbook-3.1.1-1.12
 roots-2.0.104
 rustic-1.0.5
+StandardExpansion-3.4.143
 TConstruct-1.12.2-2.10.1.87
 Thaumcraft-1.12.2-6.1.BETA16
 Totemic-1.12.2-0.11.2
