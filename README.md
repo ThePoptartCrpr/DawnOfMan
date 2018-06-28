@@ -1,2 +1,2 @@
 # Dawn of Man
-This repository exists solely to provide a working grounds for collaboration on this project. Feel free to have a look around, though!
+Dawn of Man is a progression-oriented modpack for Minecraft 1.12.2. Please note that this is heavily a work in progress!
