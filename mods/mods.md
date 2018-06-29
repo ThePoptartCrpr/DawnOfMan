@@ -35,6 +35,7 @@
 - **Galacticraft-Planets**-1.12.2-4.0.1.181
 - **HungerInPeace**-mc1.12-1.0.0
 - **Hwyla**-1.8.26-B41_1.12.2
+- **ikwid**-1.0.2
 - **immcraft**-1.12-1.5.0
 - **ImmersiveEngineering**-0.12-82
 - **immersivepetroleum**-1.12.2-1.1.9
