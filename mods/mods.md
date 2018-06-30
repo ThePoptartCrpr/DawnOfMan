@@ -18,6 +18,9 @@
 - **buildcraft**-7.99.17
 - **Ceramics**-1.12-1.3.4
 - **Clumps**-3.1.1
+- **CodeChickenLib**-1.12.2-3.2.0.345-universal
+- **CoFHCore**-1.12.2-4.5.2.19-universal
+- **CoFHWorld**-1.12.2-1.2.0.5-universal
 - **CookingForBlockheads**_1.12.2-6.4.40
 - **CraftStudio**-1.0.0.93-mc1.12-alpha
 - **CraftTweaker2**-1.12-4.1.9
@@ -31,8 +34,8 @@
 - **FastLeafDecay**-v14
 - **foamfix**-0.9.9.1-1.12.2-anarchy
 - **forestry**_1.12.2-5.8.0.308
-- **GalacticraftCore**-1.12.2-4.0.1.181
 - **Galacticraft-Planets**-1.12.2-4.0.1.181
+- **GalacticraftCore**-1.12.2-4.0.1.181
 - **HungerInPeace**-mc1.12-1.0.0
 - **Hwyla**-1.8.26-B41_1.12.2
 - **ikwid**-1.0.2
@@ -61,11 +64,14 @@
 - **ProjectE**-1.12-PE1.3.0
 - **Quark**-r1.4-125
 - **questbook**-3.1.1-1.12
+- **RedstoneFlux**-1.12.2-2.0.2.3-universal
 - **roots**-2.0.104
 - **rustic**-1.0.5
 - **StandardExpansion**-3.4.143
 - **TConstruct**-1.12.2-2.10.1.87
 - **Thaumcraft**-1.12.2-6.1.BETA16
+- **ThermalExpansion**-1.12.2-5.5.0.29-universal
+- **ThermalFoundation**-1.12.2-2.5.0.19-universal
 - **Totemic**-1.12.2-0.11.2
 - **VanillaFix**-1.0.9-97
 - **Wawla**-1.12.2-2.5.257
