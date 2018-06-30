@@ -74,5 +74,6 @@
 - **ThermalFoundation**-1.12.2-2.5.0.19-universal
 - **Totemic**-1.12.2-0.11.2
 - **VanillaFix**-1.0.9-97
+- **WailaHarvestability**-mc1.12-1.1.12
 - **Wawla**-1.12.2-2.5.257
 - **WildCrops**-1.12-1.0.1
