@@ -13,6 +13,7 @@
 - **BetterQuesting**-3.5.259
 - **BetterWithMods**-1.12-2.1.24
 - **BiblioCraft**[v2.4.5][MC1.12.2]
+- **Biome_Bundle**-1.12.2-v6.1
 - **bonsaitrees**-1.0.5-b77
 - **Botania**+r1.10-354
 - **buildcraft**-7.99.17
@@ -58,6 +59,7 @@
 - **natura**-1.12.2-4.3.2.49
 - **noRecipeBook**_v1.2.2formc1.12.2
 - **Nutrition**-1.12.2-3.4.0
+- **OpenTerrainGenerator**-1.12.2+-+v6
 - **OreExcavation**-1.4.119
 - **Pam's+HarvestCraft**+1.12.2u
 - **pneumaticcraft-repressurized**-1.12.2-0.6.8-219
