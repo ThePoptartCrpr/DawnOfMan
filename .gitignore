@@ -1,14 +1,11 @@
 # Directories
-logs/
-saves/
-screenshots/
-resourcepacks/
 memory_repo/
 .mixin.out/
 astralsorcery/
 !config/astralsorcery/
 journeymap/
 snapshots-server/
+mods/OpenTerrainGenerator/
 
 
 # Files
@@ -21,6 +18,11 @@ config/MouseTweaks.cfg
 
 
 # Minecraft
+logs/
+saves/
+screenshots/
+resourcepacks/
+crash-reports/
 realms_persistence.json
 usercache.json
 usernamecache.json
