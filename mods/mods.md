@@ -18,6 +18,8 @@
 - **Botania**+r1.10-354
 - **buildcraft**-7.99.17
 - **Ceramics**-1.12-1.3.4
+- **Chisel**-MC1.12.2-0.2.0.31
+- **chiselsandbits**-14.17
 - **Clumps**-3.1.1
 - **CodeChickenLib**-1.12.2-3.2.0.345-universal
 - **CoFHCore**-1.12.2-4.5.2.19-universal
@@ -25,6 +27,7 @@
 - **CookingForBlockheads**_1.12.2-6.4.40
 - **CraftStudio**-1.0.0.93-mc1.12-alpha
 - **CraftTweaker2**-1.12-4.1.9
+- **CTM**-MC1.12.2-0.3.1.16
 - **cucumber**-1.12-1.1.0
 - **dttraverse**-1.2
 - **DynamicTrees**-1.12.2-0.7.8
