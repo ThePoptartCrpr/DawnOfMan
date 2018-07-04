@@ -74,6 +74,7 @@
 - **ThermalExpansion**-1.12.2-5.5.0.29-universal
 - **ThermalFoundation**-1.12.2-2.5.0.19-universal
 - **Totemic**-1.12.2-0.11.2
+- **Traverse**-1.12.2-1.5.4-61
 - **VanillaFix**-1.0.9-97
 - **WailaHarvestability**-mc1.12-1.1.12
 - **Wawla**-1.12.2-2.5.257
