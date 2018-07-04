@@ -9,3 +9,11 @@ var itemsToRemove as IItemStack[] = [
 for item in itemsToRemove {
   recipes.remove(item);
 }
+
+var recipesToRemove as string[] = [
+  "thermalfoundation:material_3"
+];
+
+for recipe in recipesToRemove {
+  recipes.removeByRecipeName(recipe);
+}
