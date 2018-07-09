@@ -30,6 +30,7 @@
 - **CTM**-MC1.12.2-0.3.1.16
 - **cucumber**-1.12-1.1.0
 - **dttraverse**-1.2
+- **DynamicSurroundings**-1.12.2-3.4.9.14
 - **DynamicTrees**-1.12.2-0.7.8
 - **DynamicTreesBOP**-1.12.2-1.2
 - **DynamicTreesTC**-1.12.2-1.0
