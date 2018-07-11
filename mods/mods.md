@@ -83,6 +83,7 @@
 - **roots**-2.0.104
 - **rustic**-1.0.5
 - **SereneSeasons**-1.12.2-1.2.3-universal
+- **SoundFilters**-0.10_for_1.12
 - **StandardExpansion**-3.4.143
 - **Streams**-1.12-0.4.4
 - **TConstruct**-1.12.2-2.10.1.87
