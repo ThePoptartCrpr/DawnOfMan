@@ -6,3 +6,5 @@ dynamic-trees-traverse-compat
 jei
 immersive-engineering
 biomes-o-plenty
+ender-io
+endercore
