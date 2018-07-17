@@ -8,3 +8,6 @@ immersive-engineering
 biomes-o-plenty
 ender-io
 endercore
+industrial-foregoing
+actually-additions
+astral-sorcery
