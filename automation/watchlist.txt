@@ -3,3 +3,4 @@ dynamictrees
 dtbop
 dttc
 dynamic-trees-traverse-compat
+jei
