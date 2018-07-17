@@ -4,3 +4,5 @@ dtbop
 dttc
 dynamic-trees-traverse-compat
 jei
+immersive-engineering
+biomes-o-plenty
