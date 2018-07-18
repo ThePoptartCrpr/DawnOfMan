@@ -45,6 +45,7 @@
 - **foamfix**-0.9.9.1-1.12.2-anarchy
 - **forestry**_1.12.2-5.8.0.308
 - **Forgelin**-1.7.4
+- **Foundry**-1.12.2-3.2.0
 - **GalacticraftCore**-1.12.2-4.0.1.181
 - **Galacticraft-Planets**-1.12.2-4.0.1.181
 - **HardcoreBuoy**-1.12-1.0.4
