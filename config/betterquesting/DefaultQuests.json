@@ -14,7 +14,7 @@
           "visibility:8": "NORMAL",
           "simultaneous:1": 0,
           "icon:10": {
-            "id:8": "minecraft:nether_star",
+            "id:8": "minecraft:stick",
             "Count:3": 1,
             "Damage:2": 0,
             "OreDict:8": ""
@@ -25,8 +25,8 @@
           "snd_update:8": "minecraft:entity.player.levelup",
           "autoclaim:1": 0,
           "ismain:1": 1,
-          "name:8": "The Beginning",
-          "desc:8": "Spawn in the world"
+          "name:8": "Sticks and Stones",
+          "desc:8": "To begin your journey, you\u0027ll need to acquire some sticks and stones. You might notice that you won\u0027t be able to chop down trees with your bare hands. Instead, you must find sticks laying on the ground."
         }
       },
       "tasks:9": {
@@ -39,8 +39,14 @@
           "consume:1": 0,
           "requiredItems:9": {
             "0:10": {
-              "id:8": "minecraft:stone",
-              "Count:3": 1,
+              "id:8": "immcraft:rock",
+              "Count:3": 4,
+              "OreDict:8": "",
+              "Damage:3": 0
+            },
+            "1:10": {
+              "id:8": "minecraft:stick",
+              "Count:3": 4,
               "OreDict:8": "",
               "Damage:3": 0
             }
@@ -48,20 +54,39 @@
           "taskID:8": "bq_standard:retrieval"
         }
       },
-      "rewards:9": {
-        "0:10": {
-          "rewardID:8": "bq_standard:item",
-          "index:3": 0,
-          "rewards:9": {
-            "0:10": {
-              "id:8": "minecraft:wool",
-              "Count:3": 1,
-              "OreDict:8": "",
-              "Damage:3": 3
-            }
-          }
+      "rewards:9": {}
+    },
+    "1:10": {
+      "questID:3": 1,
+      "preRequisites:11": [
+        0
+      ],
+      "properties:10": {
+        "betterquesting:10": {
+          "issilent:1": 0,
+          "snd_complete:8": "minecraft:entity.player.levelup",
+          "lockedprogress:1": 0,
+          "tasklogic:8": "AND",
+          "repeattime:3": -1,
+          "simultaneous:1": 0,
+          "icon:10": {
+            "id:8": "minecraft:nether_star",
+            "Count:3": 1,
+            "Damage:2": 0,
+            "OreDict:8": ""
+          },
+          "globalshare:1": 0,
+          "questlogic:8": "AND",
+          "partysinglereward:1": 0,
+          "snd_update:8": "minecraft:entity.player.levelup",
+          "autoclaim:1": 0,
+          "ismain:1": 0,
+          "name:8": "e",
+          "desc:8": "No Description"
         }
-      }
+      },
+      "tasks:9": {},
+      "rewards:9": {}
     }
   },
   "questLines:9": {
@@ -72,6 +97,12 @@
           "x:3": 0,
           "y:3": 0,
           "id:3": 0
+        },
+        "1:10": {
+          "size:3": 24,
+          "x:3": 36,
+          "y:3": 0,
+          "id:3": 1
         }
       },
       "lineID:3": 0,
@@ -80,7 +111,7 @@
           "name:8": "The Beginning",
           "bg_image:8": "",
           "bg_size:3": 256,
-          "desc:8": "Better With Mods"
+          "desc:8": "Early game progression"
         }
       },
       "order:3": 0
