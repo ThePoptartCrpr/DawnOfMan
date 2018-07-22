@@ -1,6 +1,6 @@
 import crafttweaker.item.IItemStack;
 
-var itemsToRemove as IItemStack[] = [
+/*var itemsToRemove as IItemStack[] = [
   <enderio:item_material:9>,
   <buildcraftcore:gear_wood>,
   <betterwithmods:material>
@@ -8,7 +8,7 @@ var itemsToRemove as IItemStack[] = [
 
 for item in itemsToRemove {
   recipes.remove(item);
-}
+}*/
 
 var recipesToRemove as string[] = [
   "thermalfoundation:material_3"

@@ -10,8 +10,8 @@
 - **astralsorcery**-1.12.2-1.9.1
 - **AutoRegLib**-1.3-18
 - **Baubles**-1.12-1.5.2
-- **BetterQuesting**-3.5.259
-- **BetterWithMods**-1.12-2.2.05
+- **BetterQuesting**-3.5.262
+- **BetterWithMods**-1.12-2.3.3
 - **BiblioCraft**[v2.4.5][MC1.12.2]
 - **BiomesOPlenty**-1.12.2-7.0.1.2384-universal
 - **bonsaitrees**-1.0.5-b77
