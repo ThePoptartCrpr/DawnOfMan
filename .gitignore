@@ -4,6 +4,7 @@ memory_repo/
 astralsorcery/
 !config/astralsorcery/
 journeymap/
+local/
 snapshots-server/
 mods/OpenTerrainGenerator/
 
