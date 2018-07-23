@@ -11,7 +11,7 @@ mods/OpenTerrainGenerator/
 
 # Files
 *.jar
-crafttweaker.log
+*.log
 BotaniaVars.dat
 splash.properties
 config/buildcraft/detailed.properties

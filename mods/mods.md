@@ -10,6 +10,7 @@
 - **astralsorcery**-1.12.2-1.9.1
 - **AutoRegLib**-1.3-18
 - **Baubles**-1.12-1.5.2
+- **BetterFps**-1.4.8
 - **BetterQuesting**-3.5.262
 - **BetterWithMods**-1.12-2.3.3
 - **BiblioCraft**[v2.4.5][MC1.12.2]
