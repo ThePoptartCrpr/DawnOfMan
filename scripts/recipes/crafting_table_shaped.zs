@@ -1,2 +1,0 @@
-// Gears
-recipes.addShaped(<betterwithmods:material>, [[<minecraft:stick>, <minecraft:planks>, <minecraft:stick>],[<minecraft:planks>, null, <minecraft:planks>], [<minecraft:stick>, <minecraft:planks>, <minecraft:stick>]]);
