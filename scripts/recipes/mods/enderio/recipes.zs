@@ -1,12 +1,12 @@
 # Import dependencies
 
-import crafttweaker.item.IItemStack;
+import crafttweaker.item.IIngredient;
 
 # Remove recipes
 
 // TODO: Make recipesToRemove global and add to it in each script
 
-var itemsToRemove as IItemStack[] = [
+var itemsToRemove as IIngredient[] = [
   <enderio:item_material:9>
 ];
 
@@ -22,7 +22,7 @@ var recipesToRemove as string[] = [
 # Boilerplate
 
 for item in itemsToRemove {
-  recipes.remove(item, false);
+  recipes.remove(item);
 }
 
 for recipe in recipesToRemove {

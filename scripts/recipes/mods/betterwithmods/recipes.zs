@@ -17,7 +17,7 @@ var recipesToRemove as string[] = [
 # Boilerplate
 
 for item in itemsToRemove {
-  recipes.remove(item, false);
+  recipes.remove(item);
 }
 
 for recipe in recipesToRemove {
