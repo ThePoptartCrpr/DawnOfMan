@@ -9,6 +9,7 @@
 - **Aquaculture**-1.12.2-1.6.5
 - **astralsorcery**-1.12.2-1.9.1
 - **AutoRegLib**-1.3-18
+- **Avaritia**-1.12.2-3.2.0.25
 - **Baubles**-1.12-1.5.2
 - **BetterFps**-1.4.8
 - **BetterQuesting**-3.5.262
@@ -16,8 +17,10 @@
 - **BiblioCraft**[v2.4.5][MC1.12.2]
 - **BiomesOPlenty**-1.12.2-7.0.1.2384-universal
 - **bonsaitrees**-1.0.5-b77
+- **Bookshelf**-1.12.2-2.3.552
 - **Botania**+r1.10-354
 - **buildcraft**-7.99.17
+- **Caliper**-1.12.2-1.1.34 (Development only)
 - **Ceramics**-1.12-1.3.4
 - **Chameleon**-1.12-4.1.3
 - **Chisel**-MC1.12.2-0.2.0.31
@@ -31,6 +34,7 @@
 - **CraftTweaker2**-1.12-4.1.9
 - **CTM**-MC1.12.2-0.3.1.16
 - **cucumber**-1.12-1.1.0
+- **CustomMainMenu**-MC1.12.2-2.0.8
 - **dttraverse**-1.2
 - **DynamicSurroundings**-1.12.2-3.4.9.14
 - **DynamicTrees**-1.12.2-0.7.8
@@ -87,7 +91,9 @@
 - **Quark**-r1.4-125
 - **questbook**-3.1.1-1.12
 - **RebornCore**-1.12.2-3.9.2.319-universal
+- **RebornStorage**-1.12.2-3.2.0.60
 - **RedstoneFlux**-1.12.2-2.0.2.3-universal
+- **refined_avaritia**-1.12.2-2.0
 - **refinedstorage**-1.6
 - **Repose**-1.12-1.6.1
 - **roots**-2.0.104

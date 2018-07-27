@@ -3,7 +3,9 @@ memory_repo/
 .mixin.out/
 astralsorcery/
 !config/astralsorcery/
-journeymap/
+journeymap/data/
+journeymap/icon/
+journeymap/server/
 local/
 snapshots-server/
 mods/OpenTerrainGenerator/
