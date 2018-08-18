@@ -41,8 +41,6 @@ farseek
 fast-leaf-decay
 forestry
 ignition-foundry
-ftblib
-ftb-utilities
 hwyla
 immersive-craft
 immersive-engineering
